@@ -1,4 +1,4 @@
-<h1 align="center">AI Job Hunter — Resume and Cover Letter Tailoring Assistant</h1>
+<h1 align="center">AI Job Hunter - Resume and Cover Letter Tailoring Assistant</h1>
 <p align="center">
   <a href="https://github.com/PoojaKabadi/Applied-AI/tree/main">
     <img src="https://github.com/user-attachments/assets/ea143d89-f712-49aa-bd82-4254122f0b43" alt="Applied AI" width="900px" />
